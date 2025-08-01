@@ -28,7 +28,7 @@
 
 // --- 2. GLOBAL VARIABLES & OBJECTS ---
 
-const char* ssid = "SumoBot-Control_1";
+const char* ssid = "Bot-Control_1";
 
 const char* password = "roboclub";
 
